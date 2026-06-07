@@ -25,12 +25,10 @@ A fully local, privacy-preserving distributed database system built from scratch
 5. Open `stormdb-frontend` → `npm install && npm start`
 6. Visit `http://localhost:3000`
 
-## 📊 Features
-| Feature                     |Status |
-|                             |       |
-| Range-based sharding        | ✅   |
-| Real-time health monitoring | ✅   |
-| Automatic failover          | ✅   |
-| Node replication            | ✅   |
-| Natural language queries    | ✅   |
-| Live dashboard              | ✅   |
+## 📊 Features   
+> Range-based sharding        | ✅   |
+> Real-time health monitoring | ✅   |
+> Automatic failover          | ✅   |
+> Node replication            | ✅   |
+> Natural language queries    | ✅   |
+> Live dashboard              | ✅   |
